@@ -1,0 +1,60 @@
+# The citation author list and order follow the associated study manuscript.
+# This is study-level attribution, not an individual coding-contribution statement.
+cff-version: 1.2.0
+message: If you use this model or its accompanying research code, please cite this software and specify the version used.
+title: AMI intestinal necrosis model
+type: software
+version: 1.0.0
+date-released: '2026-10-27'
+authors:
+- family-names: Tian
+  given-names: Min
+  affiliation: Division of Gastrointestinal Surgery, Department of General Surgery, West China Hospital of Sichuan University, Chengdu, Sichuan Province, China
+- family-names: Tang
+  given-names: Shiyu
+  affiliation: Division of Gastrointestinal Surgery, Department of General Surgery, West China Hospital of Sichuan University, Chengdu, Sichuan Province, China
+- family-names: Jiang
+  given-names: Xiaomei
+  affiliation: Division of Gastrointestinal Surgery, Department of General Surgery, West China Hospital of Sichuan University, Chengdu, Sichuan Province, China
+- family-names: Huang
+  given-names: Libin
+  affiliation: Division of Gastrointestinal Surgery, Department of General Surgery, West China Hospital of Sichuan University, Chengdu, Sichuan Province, China
+- family-names: Chen
+  given-names: Peng
+  affiliation: Division of Gastrointestinal Surgery, Department of General Surgery, West China Hospital of Sichuan University, Chengdu, Sichuan Province, China; Institute of Digestive Surgery, State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, Sichuan University, Chengdu, China
+- family-names: Li
+  given-names: Xu
+  affiliation: Department of Science and Technology, Center of Biostatistics, Design, Measurement and Evaluation, West China Hospital of Sichuan University, Chengdu, China
+- family-names: Song
+  given-names: Xiaohai
+  affiliation: Division of Gastrointestinal Surgery, Department of General Surgery, West China Hospital of Sichuan University, Chengdu, Sichuan Province, China
+- family-names: Zhang
+  given-names: Guixiang
+  affiliation: Division of Gastrointestinal Surgery, Department of General Surgery, West China Hospital of Sichuan University, Chengdu, Sichuan Province, China
+- family-names: Huang
+  given-names: Bin
+  affiliation: Department of Vascular Surgery, West China Hospital of Sichuan University, Chengdu, China
+- family-names: Zhang
+  given-names: Shu
+  affiliation: Emergency Department, West China Hospital of Sichuan University, Chengdu, China
+- family-names: Wang
+  given-names: Min
+  affiliation: Department of General Surgery, Hospital of Chengdu University of Traditional Chinese Medicine, Chengdu, China
+- family-names: Xiao
+  given-names: Jiangwei
+  affiliation: Department of Gastrointestinal Surgery, Clinical Medical College and The First Affiliated Hospital of Chengdu Medical College, Chengdu, China
+- family-names: Yang
+  given-names: Lie
+  affiliation: Division of Gastrointestinal Surgery, Department of General Surgery, West China Hospital of Sichuan University, Chengdu, Sichuan Province, China; Institute of Digestive Surgery, State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, Sichuan University, Chengdu, China
+  email: lie_222@163.com
+- family-names: Zhou
+  given-names: Zongguang
+  affiliation: Division of Gastrointestinal Surgery, Department of General Surgery, West China Hospital of Sichuan University, Chengdu, Sichuan Province, China; Institute of Digestive Surgery, State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, Sichuan University, Chengdu, China
+repository-code: https://github.com/tsyleo/AMI-necrosis-XGBoost
+url: https://github.com/tsyleo/AMI-necrosis-XGBoost
+abstract: Research materials for the AMI intestinal necrosis model, including documentation and an encrypted code and fixed-model package. Patient-level data are not included.
+keywords:
+- acute mesenteric ischemia
+- intestinal necrosis
+- XGBoost
+- prediction model

@@ -33,7 +33,7 @@ After approval, verify the files against `SHA256SUMS.txt`, decrypt the archive l
 
 ## Citation and use boundary
 
-Please cite the associated article and the release version used. `CITATION.cff.template` remains a template; complete the author details, repository URL and article information before renaming it to `CITATION.cff`.
+If you use this model or its accompanying research code, please cite the software using the metadata in [CITATION.cff](CITATION.cff) and specify the release version used. GitHub’s “Cite this repository” option provides APA and BibTeX citation formats.
 
 This package is for research evaluation. It does not establish clinical effectiveness and must not independently determine diagnosis, revascularization, surgery or other treatment. Patient-level data are not publicly distributed. Synthetic examples test software behavior and cannot reproduce the article's performance estimates. See the model card, data availability statement and access terms for further details.
 
