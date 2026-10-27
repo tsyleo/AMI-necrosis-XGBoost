@@ -1,0 +1,24 @@
+# Public repository: prevent accidental addition of decrypted/production material.
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.pfx
+*.sqlite*
+*.db
+*.xlsx
+*.xls
+*.rds
+*.RData
+*.jsonl
+*.log
+*密码*
+*仅通讯作者*
+secrets/
+decrypted/
+AMI_code_model_v1.0.0/
+analysis/
+prospective-app/
+models/
+node_modules/

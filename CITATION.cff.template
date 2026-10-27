@@ -1,0 +1,26 @@
+# Template only. Complete author, repository and article metadata before
+# renaming this file to CITATION.cff. Do not invent a DOI or publication status.
+cff-version: 1.2.0
+message: "Please cite the associated article and the release version used."
+title: "AMI intestinal necrosis model"
+type: software
+version: "1.0.0"
+date-released: "2026-10-27"
+authors:
+  - family-names: "[AUTHOR_FAMILY_NAME]"
+    given-names: "[AUTHOR_GIVEN_NAMES]"
+    affiliation: "[AUTHOR_AFFILIATION]"
+    email: "lie_222@163.com"
+repository-code: "[GITHUB_REPOSITORY_URL]"
+abstract: "Research materials for the AMI intestinal necrosis model, including documentation and an encrypted code and fixed-model package. Patient-level data are not included."
+preferred-citation:
+  type: article
+  title: "[FINAL_ARTICLE_TITLE]"
+  authors:
+    - family-names: "[AUTHOR_FAMILY_NAME]"
+      given-names: "[AUTHOR_GIVEN_NAMES]"
+  journal: "[JOURNAL_NAME]"
+  year: "[PUBLICATION_YEAR]"
+  doi: "[ARTICLE_DOI_IF_ASSIGNED]"
+# Corresponding-author contact for the public README and request instructions:
+# Lie Yang <lie_222@163.com>

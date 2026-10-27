@@ -1,0 +1,4 @@
+*.7z binary
+*.md text eol=lf
+*.txt text eol=lf
+*.template text eol=lf
